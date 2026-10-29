@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.env*
+!.env.example
+.secret*
+.firebase/
+.vercel/
+firebase-debug*.log
+npm-dev*.log
+/.private-local/
